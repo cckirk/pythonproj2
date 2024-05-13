@@ -1,0 +1,15 @@
+C:/Users/Diane/pythonproj/env/Include/country_classification.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/env/Include/goods_classification.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/env/Include/output_csv_full.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/env/Include/output_csv_full1.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/env/Include/revised.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/env/Include/services_classification.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/env/Include/services_classification.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/country_classification.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/goods_classification.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/output_csv_full.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/output_csv_full1.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/revised.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Diane/pythonproj/services_classification.csv filter=lfs diff=lfs merge=lfs -text
+Bash filter=lfs diff=lfs merge=lfs -text
+gitattributes.bin filter=lfs diff=lfs merge=lfs -text
